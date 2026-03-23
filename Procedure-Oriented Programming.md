@@ -91,19 +91,19 @@ Instructions execute step-by-step.
 ## Program is divided into smaller manageable modules.
 
 ## ✅ 👍 Advantages
-✔️ Simple and easy to learn
-✔️ Suitable for small programs
-✔️ Easy debugging
-✔️ Less memory usage
-✔️ Faster execution
+- ✔️ Simple and easy to learn
+- ✔️ Suitable for small programs
+- ✔️ Easy debugging
+- ✔️ Less memory usage
+- ✔️ Faster execution
 
 
 ## ❌ 👎 Disadvantages
-❌ Lack of data security
-❌ Difficult for large programs
-❌ No data hiding
-❌ Limited code reusability
-❌ Difficult maintenance
+- ❌ Lack of data security
+- ❌ Difficult for large programs
+- ❌ No data hiding
+- ❌ Limited code reusability
+- ❌ Difficult maintenance
 
 ---
 
