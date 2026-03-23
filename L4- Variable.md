@@ -127,7 +127,7 @@ This category involves variables that can hold multiple values of dissimilar typ
 
 ## 🧠 🔐 Data Abstraction and C++
 
-The sources highlight several principles regarding how data is handled in C++:
+Several principles regarding how data is handled in C++:
 
 * 🎯 **Data Abstraction:** This is the process of hiding the underlying characteristics or internal structure of a data entity from the user
   . It allows programmers to work with complex objects without needing to understand how the data is stored internally
