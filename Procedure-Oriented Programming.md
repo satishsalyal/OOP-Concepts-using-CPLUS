@@ -59,71 +59,78 @@ int main() {
     return 0;
 }
 
-📌 Explanation:
+---
+##📌 🧠 Explanation
 
-Program is divided into functions
-Data is passed between functions
-Focus is on procedure (function execution)
-🚀 Features of POP
-🔸 1. Top-Down Approach
+✨ In Procedure-Oriented Programming (POP):
 
-Breaks problem into smaller sub-problems.
+🧩 Program is divided into functions
+🔄 Data is passed between functions
+🎯 Focus is on procedure (function execution)
+🚀 🌟 Features of POP
+🔸 1. 🧭 Top-Down Approach
 
-🔸 2. Function-Based Structure
+Breaks a complex problem into smaller sub-problems.
 
-Programs are organized using functions.
+🔸 2. 🧱 Function-Based Structure
 
-🔸 3. Global Data Sharing
+Programs are organized using functions/modules.
+
+🔸 3. 🌐 Global Data Sharing
 
 Data can be accessed by multiple functions.
 
-🔸 4. Sequential Execution
+🔸 4. ⏩ Sequential Execution
 
 Instructions execute step-by-step.
 
-🔸 5. Modular Programming
+🔸 5. 🧩 Modular Programming
+---
 
-Program is divided into smaller modules.
+## Program is divided into smaller manageable modules.
 
-✅ Advantages
-✔ Simple and easy to learn
-✔ Suitable for small programs
-✔ Easy debugging
-✔ Less memory usage
-✔ Faster execution
-❌ Disadvantages
+✅ 👍 Advantages
+✔️ Simple and easy to learn
+✔️ Suitable for small programs
+✔️ Easy debugging
+✔️ Less memory usage
+✔️ Faster execution
+❌ 👎 Disadvantages
 ❌ Lack of data security
 ❌ Difficult for large programs
 ❌ No data hiding
 ❌ Limited code reusability
 ❌ Difficult maintenance
-⚖️ POP vs OOP
-Feature	POP	OOP
-🔍 Focus	Functions	Objects
+⚖️ 🔄 POP vs OOP
+🔍 Feature	🧩 POP	🧱 OOP
+🎯 Focus	Functions	Objects
 🧭 Approach	Top-down	Bottom-up
 🔐 Data Security	Low	High
 ♻️ Reusability	Limited	High
 🛠 Maintenance	Difficult	Easy
-🌍 Applications of POP
+🌍 💡 Applications of POP
 🖥 System Programming (C language)
 🔌 Embedded Systems
 📊 Scientific Calculations
 📐 Algorithm-based Programs
 🧪 Small-scale Applications
-⚠️ Limitations
+⚠️ 🚧 Limitations
 ❌ Not suitable for large systems
 ❌ Poor real-world modeling
 ❌ Data can be modified easily
 ❌ Not ideal for modern development
-🎯 Why POP is Important?
+🎯 💭 Why POP is Important?
 📌 Builds foundation of programming
 📌 Helps in logic building
 📌 Prepares for advanced paradigms like OOP
-🏁 Conclusion
+🏁 📢 Conclusion
 
-Procedure-Oriented Programming is a fundamental paradigm that focuses on functions and step-by-step problem solving.
+📘 Procedure-Oriented Programming (POP) is a fundamental paradigm focused on:
 
-While it is effective for small applications, it lacks:
+✔️ Functions
+✔️ Step-by-step problem solving
+
+However, it lacks:
 
 🔐 Data security
 ♻️ Reusability
