@@ -16,10 +16,30 @@ In POP, a program is divided into smaller parts called **functions**, where each
 
 ## 📖 Definition
 
-> **Procedure-Oriented Programming** is a programming approach where programs are structured into procedures (functions), and data is processed through these procedures.
+**Procedure-Oriented Programming** is a programming approach where programs are structured into procedures (functions), and data is processed through these procedures.
+
 
 ---
 
+# 🎯 Simple Visual (No Mermaid – Works Everywhere)
+
+```markdown
+## 📌 POP Structure (Simple Representation)
+
+        +-------------------+
+        |     Main Program  |
+        +-------------------+
+           /      |      \
+          /       |       \
++-----------+ +-----------+ +-----------+
+| Function1 | | Function2 | | Function3 |
++-----------+ +-----------+ +-----------+
+        \        |        /
+         \       |       /
+          +----------------+
+          |   Shared Data  |
+          +----------------+
+---
 ## ⚙️ Key Characteristics
 
 - 🔹 Focus on **functions/procedures**
