@@ -4,6 +4,11 @@
 # 📘 Four Pillars of Object-Oriented Programming (OOP)
 
 ---
+```markdown
+<div align="center">
+  <img src="(https://github.com/satishsalyal/OOP-Concepts-using-C-/blob/main/OOPs.png)" width="80%" />
+</div>
+```
 
 ## 🌟 Overview
 
