@@ -61,7 +61,7 @@ int main() {
 
 ``` 
 ---
-##📌 🧠 Explanation
+## 📌 🧠 Explanation
 
 ✨ In Procedure-Oriented Programming (POP):
 
