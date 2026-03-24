@@ -1,6 +1,4 @@
-Here is your content **improved slightly (C++ context) and converted into a clean, attractive, and stylish GitHub README.md format** 👇
 
----
 
 # 📘 Variables in C++ (OOP Context)
 
