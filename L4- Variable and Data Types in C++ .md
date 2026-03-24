@@ -13,7 +13,6 @@ A variable is defined as an identifier used to identify and store input data in 
 
 ## 🧾 🔤 Variable Naming Rules
 
-While the specific rules provided are cited f, they represent standard practices for C-style languages:
 
 * 🔡 **Case Sensitivity:** Variable names are case-sensitive (e.g., `money` and `Money` are distinct)
   .
