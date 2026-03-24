@@ -1,5 +1,44 @@
 
 
+## 📘 C++ Keywords (C++17)
+🌟 Overview
+
+**Keywords** are predefined words that have special meanings to the compiler. For example,
+
+int money;
+
+Here, int is a keyword that indicates money is a variable of type integer.
+
+## 🔑 📋 List of C++ Keywords (as of C++17)
+alignas        decltype        namespace       struct
+alignof        default         new             switch
+and            delete          noexcept        template
+and_eq         do              not             this
+asm            double          not_eq          thread_local
+auto           dynamic_cast    nullptr         throw
+bitand         else            operator        true
+bitor          enum            or              try
+bool           explicit        or_eq           typedef
+break          export          private         typeid
+case           extern          protected       typename
+catch          false           public          union
+char           float           register        unsigned
+char16_t       for             reinterpret_cast using
+char32_t       friend          return          virtual
+class          goto            short           void
+compl          if              signed          volatile
+const          inline          sizeof          wchar_t
+constexpr      int             static          while
+const_cast     long            static_assert   xor
+continue       mutable         static_cast     xor_eq
+⚠️ Important Note
+
+🧠 Note: As C++ is a case sensitive language, all keywords must be written in lowercase.
+
+💡 Pro Tip
+🚫 Keywords cannot be used as variable names
+📌 They form the core syntax of the C++ language
+🧩 Essential for writing correct and efficient programs
 # 📘 Variables in C++ 
 
 
