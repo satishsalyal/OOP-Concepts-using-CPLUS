@@ -1,6 +1,6 @@
 
 
-# 📘 Variables in C++ (OOP Context)
+# 📘 Variables in C++ 
 
 
 ## 📌 🧠 Definition and Purpose
