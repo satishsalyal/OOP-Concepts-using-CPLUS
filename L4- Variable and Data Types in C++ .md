@@ -1,15 +1,24 @@
 
 
-## 📘 C++ Keywords (C++17)
-🌟 Overview
+# 📘 C++ Keywords (C++17)
+
+---
+
+## 🌟 Overview
 
 **Keywords** are predefined words that have special meanings to the compiler. For example,
 
+```cpp
 int money;
+```
 
-Here, int is a keyword that indicates money is a variable of type integer.
+Here, `int` is a keyword that indicates `money` is a variable of type integer.
+
+---
 
 ## 🔑 📋 List of C++ Keywords (as of C++17)
+
+```
 alignas        decltype        namespace       struct
 alignof        default         new             switch
 and            delete          noexcept        template
@@ -31,14 +40,36 @@ const          inline          sizeof          wchar_t
 constexpr      int             static          while
 const_cast     long            static_assert   xor
 continue       mutable         static_cast     xor_eq
-⚠️ Important Note
+```
 
-🧠 Note: As C++ is a case sensitive language, all keywords must be written in lowercase.
+---
 
-💡 Pro Tip
-🚫 Keywords cannot be used as variable names
-📌 They form the core syntax of the C++ language
-🧩 Essential for writing correct and efficient programs
+## ⚠️ Important Note
+
+> 🧠 **Note:** As C++ is a case sensitive language, all keywords must be written in lowercase.
+
+---
+
+## 💡 Pro Tip
+
+- 🚫 Keywords **cannot be used as variable names**
+- 📌 They form the **core syntax of the C++ language**
+- 🧩 Essential for writing correct and efficient programs
+
+---
+
+## 🏁 📢 Summary
+
+✨ C++ keywords:
+
+- 🔑 Define the structure and behavior of programs  
+- ⚙️ Are reserved by the compiler  
+- 📘 Must be used correctly to avoid errors  
+
+---
+
+💡 *Mastering keywords is the first step toward becoming proficient in C++ programming!*
+
 # 📘 Variables in C++ 
 
 
