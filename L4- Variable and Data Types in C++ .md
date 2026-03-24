@@ -41,7 +41,7 @@ In C++ variables categorize into three primary types based on their location and
 
 ---
 
-## 💻 ⚙️ Variables in the C++ Context
+## 💻 ⚙️ Characteristics Variables 
 
 A few specific characteristics regarding the environment in which C++ variables operate:
 
